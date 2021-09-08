@@ -12,6 +12,7 @@ var IgnoredHeaders = Rules{
 	},
 }
 
+
 // RequiredSignedHeaders is a whitelist for Build canonical headers.
 var RequiredSignedHeaders = Rules{
 	AllowList{
